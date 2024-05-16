@@ -1,2 +1,2 @@
 # narrowbench
-Benchmark for multiple LLMs responses
+Benchmark from multiple LLMs responses
